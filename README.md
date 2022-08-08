@@ -15,7 +15,7 @@ In this project, I used SQl to help Pewllett Hackard detrmine next steps on thei
 ### Retired Employees by Title
 To help Hewlett Pacakrd determine the number of employees retiring by title, I used the titles and employees file to count the number of titles retiring determined by their birth date and as current employees. This returned the data below.
 
-![Screen Shot 2022-08-07 at 7.40.33 PM.png](Screen Shot 2022-08-07 at 7.40.33 PM.png)
+![Retiring_titles](Retiring_titles.png)
 
 - There are many Senior Engineers retiring from Peweltt Hackard which means these roles will need to be filled.
 - There are not may Managers leaving which means there will be lower ranked employees available to be trained and fill the upper roles.
